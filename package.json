@@ -1,0 +1,10 @@
+{
+  "name": "curso-claude-code",
+  "version": "1.0.0",
+  "description": "Repositorio de pruebas para el curso de Claude Code",
+  "main": "src/validateEmail.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
